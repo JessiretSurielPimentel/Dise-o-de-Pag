@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto:ital@1 & display=swap');
+
+* { 
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.cuadro { 
+    border: chocolate, 20px; 
+    position: absolute;
+    width: 518px;
+    height: 471px;
+    left: 461px;
+    top: 253px;
+}
+
+.titulo {
+     color: blue;
+     font-size: 24px;
+}
+
+.subT {
+     color: rgb(71, 71, 71);
+}
+
+.entrar { 
+    color: aliceblue; 
+    background-color: blue;
+    border-color: blue;
+}
